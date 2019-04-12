@@ -1,0 +1,9 @@
+*.backup
+*.tfvars
+*.priv
+.terraform
+.terragrunt
+_make.tf
+terraform.tfplan
+!terraform.tfvars
+terraform.tfstate
